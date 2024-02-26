@@ -8,3 +8,4 @@ Diagrama de bloques del proyecto:
 
 ## Video test
 
+https://github.com/PuertOcho/AlternateLEDs/assets/57835621/9d71bfdf-87d3-4dff-b7b0-4766524de3c6
